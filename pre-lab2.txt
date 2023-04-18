@@ -1,5 +1,0 @@
-1. Yang dimaksud dengan semantik HTML adalah Makna.
-2. Manfaaat dari element semantik HTML adalah memudahkan mesin pencarian dan membantu browser serta
-    memudahkan mesin pencari untuk memahami struktur dan konten halaman web, dan memberikan 
-    pengalaman pengguna yang lebih baik
-3. Element semantik pada HTML adalah <nav> <main> <footer> <nav> <header> <aside> <article> 
